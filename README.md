@@ -1,0 +1,1 @@
+Esse repositório contem somente códigos para entrega de projetos, descuidos, métodos para `get` e `set` em alguns objetos podem estar deslocados por terem sido inseridos via IDE. O tempo para finalização do bootcamp se tornou escasso.
