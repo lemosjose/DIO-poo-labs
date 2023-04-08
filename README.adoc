@@ -1,0 +1,3 @@
+= Código majoritariamente não-autoral
+
+Código para exemplo e consulta, sendo majoritariamente escrito por falvojr, com poucas modificações, além de alterações focadas para minha própria consulta em futuro próximo, além de finalização de laboratório pela Digital Innovation One.
